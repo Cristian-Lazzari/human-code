@@ -12,6 +12,8 @@
     - assaggio la lasagna
     **SE** è come quella della nonna **ALLORA**
     - **END**
+    - **ALTRIMENTI**
+        - tornare a (start)
 - **ALTRIMENTI**
     - tornare a (start)
 <br>
